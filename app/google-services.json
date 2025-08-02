@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741752089039",
+    "project_id": "app-test-firebase-20d48",
+    "storage_bucket": "app-test-firebase-20d48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741752089039:android:cd0c54436f1e536cc94aba",
+        "android_client_info": {
+          "package_name": "com.example.citasmedicas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT2IMe9wiZmfbiCx_DrfO9LQxztJXdyLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
